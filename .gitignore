@@ -1,0 +1,13 @@
+pkg
+.vscode
+
+goMultithreaded2/go_multithreaded2
+goMultithreaded3/go_multithreaded3
+goMultithreaded4/go_multithreaded4
+multithreadedCalc/cpp_multithreaded_calc
+multithreadedCalc/go_multithreaded_calc
+multithreadedRequests/cpp_boost_sync_multithreaded
+multithreadedRequests/go_multithreaded1
+singleThreadRequests/cpp_boost_sync_singlethread
+singleThreadRequests/go_singlethread
+goOverview/go_overview
